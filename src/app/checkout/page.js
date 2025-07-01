@@ -1,5 +1,6 @@
-import CheckoutForm from './checkoutForm';
+import CheckoutForm from "./checkoutForm";
+
 
 export default function CheckoutPage() {
-  return <CheckoutForm />;
+  return <CheckoutForm/> ;
 }
