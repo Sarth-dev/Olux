@@ -1,5 +1,6 @@
-'use client';
-export const dynamic = 'force-dynamic'; // 
+'use client'; 
+
+export const dynamic = 'force-dynamic'; 
 
 import { useSearchParams } from 'next/navigation';
 import { useState } from 'react';
@@ -24,7 +25,6 @@ export default function CheckoutPage() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // You can send this data to an API or show a success message
     console.log('Inquiry Submitted:', formData);
     alert('Thank you! We will contact you soon.');
   };
@@ -84,6 +84,3 @@ export default function CheckoutPage() {
     </div>
   );
 }
-
-
-
