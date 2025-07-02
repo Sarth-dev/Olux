@@ -46,7 +46,7 @@ Olux is a modern web platform where users can browse and compare the best **mile
 ---
 
 ## 🔗 Live Demo
-[Visit Live Site]((https://oluxbikeadda.vercel.app/))
+visit live site : [https://oluxbikeadda.vercel.app/]
 
 ---
 
